@@ -2,7 +2,7 @@
 # Random Page Widget
 
 **Version:** 1.0  
-**Autor:** Dein Name  
+**Autor:** TorbenB
 **Beschreibung:** Dieses Plugin zeigt eine zufällige Seite mit einer Vorschau, einem Textauszug und einem Bild an. Du kannst es entweder per Shortcode verwenden oder als Widget zu deiner Sidebar hinzufügen.
 
 ## Funktionen
